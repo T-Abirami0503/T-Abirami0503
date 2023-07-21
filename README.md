@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @T-Abirami0503
+- 👀 I’m interested in c
+- 🌱 I’m currently learning c
+- 💞️ I’m looking to collaborate on java,hdml
+- 📫 How to reach me in email
